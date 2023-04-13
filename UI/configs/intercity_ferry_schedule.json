@@ -1,0 +1,102 @@
+{
+    "Montreal": [
+        {
+            "time": 900,
+            "time_text": "9:00 AM Ferry",
+            "remaining_seats": 56,
+            "price": 45.0
+        },
+        {
+            "time": 1700,
+            "time_text": "5:00 PM Ferry",
+            "remaining_seats": 76,
+            "price": 30.0
+        },
+        {
+            "time": 2100,
+            "time_text": "9:00 PM Ferry",
+            "remaining_seats": 81,
+            "price": 55.0
+        }
+    ],
+    "Kingston": [
+        {
+            "time": 930,
+            "time_text": "9:30 AM Ferry",
+            "remaining_seats": 34,
+            "price": 45.0
+        },
+        {
+            "time": 1700,
+            "time_text": "5:00 PM Ferry",
+            "remaining_seats": 10,
+            "price": 30.0
+        },
+        {
+            "time": 2100,
+            "time_text": "9:00 PM Ferry",
+            "remaining_seats": 0,
+            "price": 55.0
+        }
+    ],
+    "Toronto": [
+        {
+            "time": 1000,
+            "time_text": "10:00 AM Ferry",
+            "remaining_seats": 47,
+            "price": 45.0
+        },
+        {
+            "time": 1700,
+            "time_text": "5:00 PM Ferry",
+            "remaining_seats": 37,
+            "price": 30.0
+        },
+        {
+            "time": 2100,
+            "time_text": "9:00 PM Ferry",
+            "remaining_seats": 41,
+            "price": 55.0
+        }
+    ],
+    "Ottawa": [
+        {
+            "time": 1030,
+            "time_text": "10:30 AM Ferry",
+            "remaining_seats": 17,
+            "price": 45.0
+        },
+        {
+            "time": 1700,
+            "time_text": "5:00 PM Ferry",
+            "remaining_seats": 21,
+            "price": 30.0
+        },
+        {
+            "time": 2100,
+            "time_text": "9:00 PM Ferry",
+            "remaining_seats": 34,
+            "price": 55.0
+        }
+    ],
+    "Quebec City": [
+        {
+            "time": 1100,
+            "time_text": "11:00 AM Ferry",
+            "remaining_seats": 60,
+            "price": 45.0
+        },
+        {
+            "time": 1700,
+            "time_text": "5:00 PM Ferry",
+            "remaining_seats": 49,
+            "price": 30.0
+        },
+        {
+            "time": 2100,
+            "time_text": "9:00 PM Ferry",
+            "remaining_seats": 27,
+            "price": 55.0
+        }
+    ]
+}
